@@ -1,1 +1,1 @@
-- Trying to become useful 
+- Trying to become smart
