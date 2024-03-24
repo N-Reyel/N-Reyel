@@ -1,7 +1,7 @@
 - Trying to become smart
 
 - Learning:
-  -C++
+  - C++
 
 - Want to learn:
     - C
