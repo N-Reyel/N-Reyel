@@ -1,9 +1,13 @@
 - Trying to become smart
 
 - Learning:
-  - C++
+  - C/C++
+  - Python
+  - HTML/CSS
 
 - Want to learn:
-    - C
+    - Java
+    - JavaScript
+    - C#    
     - Go
     - GDScript
