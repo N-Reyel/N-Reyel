@@ -6,8 +6,3 @@
   - HTML/CSS
   - GDScript
   - Go
-
-- Want to learn:
-    - Java
-    - JavaScript
-    - C#    
