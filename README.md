@@ -1,9 +1,9 @@
-- Trying to become smart
 
 - Learning:
   - Python
   - C/C++
-  - HTML/CSS
-  - JavaScript
-  - Java
   - Go
+
+- Game development is my hobby
+  - Godot
+  
